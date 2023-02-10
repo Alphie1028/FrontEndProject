@@ -1,0 +1,59 @@
+.result-card {
+    width: 600px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#parent {
+    width: 700px;
+    background-color: rgba(16, 12, 43, 0.679);
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#main {
+    width: 800px;
+    font-family: "Arima Madurai", cursive;
+    background-color: rgba(53, 75, 91, 0);
+    opacity: 95%;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+body {
+    background-image: url(images/poster.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+.card-image{
+
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+}
+.dropbtn{
+    border-width: solid 1px;
+    border-radius: 25%;
+}
+.Sony{
+    background-color:rgba(15, 68, 205, 0.771);
+}
+.Microsoft{
+    background-color: rgba(12, 227, 9, 0.771);
+}
+.Nintendo{
+    background-color: rgba(205, 15, 15, 0.771);
+}
+
+
